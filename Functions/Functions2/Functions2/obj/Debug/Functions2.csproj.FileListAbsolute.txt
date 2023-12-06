@@ -1,7 +1,0 @@
-C:\Users\DELL\Desktop\Functions\Functions2\Functions2\bin\Debug\Functions2.exe.config
-C:\Users\DELL\Desktop\Functions\Functions2\Functions2\bin\Debug\Functions2.exe
-C:\Users\DELL\Desktop\Functions\Functions2\Functions2\bin\Debug\Functions2.pdb
-C:\Users\DELL\Desktop\Functions\Functions2\Functions2\obj\Debug\Functions2.csproj.AssemblyReference.cache
-C:\Users\DELL\Desktop\Functions\Functions2\Functions2\obj\Debug\Functions2.csproj.CoreCompileInputs.cache
-C:\Users\DELL\Desktop\Functions\Functions2\Functions2\obj\Debug\Functions2.exe
-C:\Users\DELL\Desktop\Functions\Functions2\Functions2\obj\Debug\Functions2.pdb
