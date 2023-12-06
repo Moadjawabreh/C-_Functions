@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\Functions\Functions1\Functions1\bin\Debug\Functions1.exe.config
+C:\Users\DELL\Desktop\Functions\Functions1\Functions1\bin\Debug\Functions1.exe
+C:\Users\DELL\Desktop\Functions\Functions1\Functions1\bin\Debug\Functions1.pdb
+C:\Users\DELL\Desktop\Functions\Functions1\Functions1\obj\Debug\Functions1.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Functions\Functions1\Functions1\obj\Debug\Functions1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Functions\Functions1\Functions1\obj\Debug\Functions1.exe
+C:\Users\DELL\Desktop\Functions\Functions1\Functions1\obj\Debug\Functions1.pdb
